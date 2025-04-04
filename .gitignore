@@ -36,3 +36,4 @@
 
 #Stop Updating Config File
 *.json
+src/config.json
