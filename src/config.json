@@ -1,0 +1,21 @@
+{
+	"url" : "http://vikunjaAddressOrIp:3456/api/v1/",
+	"screenHeight" : 960,
+	"screenWidth" : 540,
+	"headerHeight" : 60,
+	"numberOfHeaderElements" : 4,
+	"numberOfLines" : 10,
+	"sleepTime" : 12,
+	"batteryMax" : 4230,
+	"batteryMin" : 3300,
+	"ssid" : "WIFI_SSID",
+	"wifiPassword" : "Password",
+	"timeZone" : -3,
+	"toDoUser" : "M5Paper",
+	"toDoPassword" : "M5PaperPassword",
+	"mainProjectName" : "M5Paper",
+	"secondaryProjectName" : "Groceries",
+	"tertiaryProjectName" : "GeneralPurchases",
+	"showDone" : false,
+	"timeToSleep" : 120000
+}
